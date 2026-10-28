@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/fullstack/client/">
+    <Project Path="fullstack/client/fullstackapplication.client.esproj">
+      <Build />
+      <Deploy />
+    </Project>
+  </Folder>
+  <Folder Name="/fullstack/server/">
+    <Project Path="fullstack/server/fullstackapplication.Server.csproj" />
+  </Folder>
+</Solution>
